@@ -1,0 +1,11 @@
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.deps.json
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.runtimeconfig.json
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.runtimeconfig.dev.json
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.dll
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.csprojResolveAssemblyReference.cache
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.csproj.CoreCompileInputs.cache
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.AssemblyInfoInputs.cache
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.AssemblyInfo.cs
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.pdb
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.dll
+C:\Users\Ighorpm\source\repos\WebAppTb01Lab1_Ighor_Moura\WebAppTb01Lab1_Ighor_Moura\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_Ighor_Moura.pdb
